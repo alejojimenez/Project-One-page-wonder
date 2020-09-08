@@ -38,3 +38,12 @@
     font-size: 250%;
     text-align: center;
 }
+
+/* Agregado por @Alejo para dar separacion entre Row */
+.linea {
+    border-top: 1px solid rgb(226, 224, 224);
+    height: 2px;
+    max-width: auto;
+    padding: 0;
+    margin: 70px auto 70px auto;    
+}
